@@ -1,6 +1,6 @@
 # Hola, soy Sebastián Errecalde.
 
-También conocido como cer0uno, cer0uno1, entre otros.
+También conocido como **cer0uno**, **cer0uno1**, entre otros.
 
 Soy un estudiante de la Tenicatura Universitaria en Programación en la UTN, apasionado por aprender todo acerca de esta. Me encanta aprender e ir incorporando todo lo aprendido en mis diversos proyectos.
 
@@ -30,6 +30,11 @@ Algunos de los proyectos que he realizado son:
   Mejora del anterior, ahora con interfaz gráfica (utilizando Windows Forms) y haciendo uso de un CRUD en MySQL para los alumnos. Escrito en C#.
 
   [Enlace al repositorio](https://github.com/cer0uno1/Prediccion-Resultados-Alumnos-Version-2)
+
+- ### Albúm de Carbón.
+  Testeando con la API de Flickr, realicé este albúm de fotos de mí gato que están guardadas en una cuenta de Flickr. Página web que utiliza JavaScript para la comunicación con la API.
+
+  [Enlace al repositorio](https://github.com/cer0uno1/AlbumCarbon)
 
 ## Contacto
 Puedes contactarme conmigo vía:
