@@ -46,5 +46,6 @@ Puedes contactarme conmigo vía:
 
 o por Email:
 - cer0uno.dev@gmail.com
+- errecaldesebastianmarcelo@gmail.com
 
 ***¡Gracias por pasarte por mi perfil!***
