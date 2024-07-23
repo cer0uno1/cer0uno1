@@ -38,6 +38,8 @@ Algunos de los proyectos que he realizado son:
 
   [Enlace al repositorio](https://github.com/cer0uno1/AlbumCarbon)
 
+También, todo lo referido a Testing lo dejaré [aquí](https://github.com/cer0uno1/Testing)
+
 ## Contacto
 Puedes contactarme conmigo vía:
 - [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-errecalde01/)
