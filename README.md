@@ -6,7 +6,7 @@ Soy un estudiante de la Tecnicatura Universitaria en Programación en la UTN, ap
 
 ## 🖥️ Tecnologías y Herramientas.
 
-Al día de la fecha, tengo conocimientos en:
+Al día de la fecha, he utilizado y tengo conocimientos en:
 
 - C
 - C#
